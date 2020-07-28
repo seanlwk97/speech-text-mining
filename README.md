@@ -1,7 +1,7 @@
 # speech-text-mining
 -Detect and download speech file that has been uploaded to Firebase Storage.
 
--Perform speech-to-text conversion using Google Speech Recognition 
+-Perform speech-to-text conversion using Google Speech Recognition (https://github.com/Uberi/speech_recognition)
 
 -Punctuate converted text using Puntuator (https://github.com/ottokart/punctuator2)
 
